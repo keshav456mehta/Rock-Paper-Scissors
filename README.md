@@ -1,4 +1,4 @@
-#Rock Paper Scissors ✊📄✂️
+# Rock Paper Scissors ✊📄✂️
 This is a fun browser-based Rock Paper Scissors game where you play against the computer! Make your choice and see if you can beat the system.
 
 🛠 Built using: HTML, CSS, and JavaScript
