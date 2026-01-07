@@ -6,7 +6,7 @@ Play against the computer and see who wins after 5 rounds!
 ---
 
 📌 Play it live here:
-➡️ http://127.0.0.1:5500/index.html
+➡️ https://rock-paper-scissors-seven-rouge-76.vercel.app/
 
 ---
 
